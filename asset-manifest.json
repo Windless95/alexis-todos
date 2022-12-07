@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alexis-todos/static/css/main.8a0b9b87.css",
+    "main.js": "/alexis-todos/static/js/main.98197aa3.js",
+    "static/js/787.633816a4.chunk.js": "/alexis-todos/static/js/787.633816a4.chunk.js",
+    "index.html": "/alexis-todos/index.html",
+    "main.8a0b9b87.css.map": "/alexis-todos/static/css/main.8a0b9b87.css.map",
+    "main.98197aa3.js.map": "/alexis-todos/static/js/main.98197aa3.js.map",
+    "787.633816a4.chunk.js.map": "/alexis-todos/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a0b9b87.css",
+    "static/js/main.98197aa3.js"
+  ]
+}
